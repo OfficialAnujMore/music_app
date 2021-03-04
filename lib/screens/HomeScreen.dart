@@ -57,7 +57,7 @@ class _HomeScreenState extends State<HomeScreen> {
             size: 30.0,
           ),
           title: Text(
-            "Trendings",
+            "Trending",
             style: MyTextStyle.text2,
           ),
         ),
